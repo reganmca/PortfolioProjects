@@ -1,0 +1,16 @@
+﻿expense_detail_id,expense_detail
+B64, Bank Fee
+C72,Campaign
+C16,Canvassing (General)
+C26, Credit Card Processing Fees
+D26, Design
+D31, Digital advertising
+F34, Field canvassing
+N42, Net Pay
+Q37, Quickbooks fee
+S88, Software 
+S68, Supplies
+T69, Text Messaging Program/Service
+W76, Website Services Fee
+W43, Wire Transfer fee
+Y77, Yard signs
